@@ -37,7 +37,7 @@ Movie posters are fetched dynamically using the TMDB API.
 - Feature Engineering
 - Recommendation Systems
 
-## Future Improvements
+### Future Improvements
 
 - User authentication
 - Personalized recommendations
